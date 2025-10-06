@@ -30,4 +30,9 @@ begin
    Ada.Float_Text_IO.Put(fKilos, aft => 4, exp => 0);
    Ada.Text_IO.Put_Line(" kg");
 
+   New_Line(1);
+   Put("Prueba Git Modificacion 1");
+
+   -- Prueba Git: MODIFICACION 1
+
 end Ej6;
